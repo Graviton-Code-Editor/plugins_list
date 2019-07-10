@@ -6,7 +6,11 @@ This is the official plugins list.
 Create a pull request to your plugin in the array, the item has to be like:
 
 ```json
-"YourUser/Organization":"repositoryName"
+"ownerName/repositoryName"
+```
+Example:
+```json
+"Graviton-Code-Editor/FluentMod"
 ```
 
 #### Want to remove your plugin?
