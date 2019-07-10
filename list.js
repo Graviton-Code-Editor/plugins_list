@@ -1,3 +1,3 @@
-const list =[
-    'Graviton-Code-Editor/FluentMod'
+[
+'Graviton-Code-Editor/FluentMod'
 ]
