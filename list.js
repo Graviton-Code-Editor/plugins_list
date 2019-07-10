@@ -1,6 +1,3 @@
-define([], function() {
-    const list =[
-        'Graviton-Code-Editor/FluentMod'
-    ]
-    return list;
-});
+const list =[
+    'Graviton-Code-Editor/FluentMod'
+]
