@@ -2,7 +2,12 @@
 
 ![MadeForGraviton](https://raw.githubusercontent.com/Graviton-Code-Editor/website/master/src/badges/made_for_graviton.svg?sanitize=true)
 
-This is the official plugins list. 
+This is the official Market plugins list.
+
+Important:
+- A Github account more than 2 months older.
+- No offensive vocabulary/images, full respect.
+- Any attemp of publishing malware to the market will be penalized.
 
 #### Want to add a plugin?
 
