@@ -1,8 +1,10 @@
 [
  "Graviton-Code-Editor/FluentMod",
  "Graviton-Code-Editor/Dark",
-"Graviton-Code-Editor/Arctic",
-"Graviton-Code-Editor/Prettier",
-"Max1Truc/GreenDarkTheme",
-"Graviton-Code-Editor/Neon"
+ "Graviton-Code-Editor/Arctic",
+ "Graviton-Code-Editor/Prettier",
+ "Max1Truc/GreenDarkTheme",
+ "Graviton-Code-Editor/Neon",
+ "AlexBesida/ABDark",
+ "AlexBesida/ABLight"
 ]
