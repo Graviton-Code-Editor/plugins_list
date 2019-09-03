@@ -20,8 +20,8 @@ Example:
 "Graviton-Code-Editor/FluentMod"
 ```
 
-### Want to remove your plugin?
+## Want to remove your plugin?
 Create a pull request to remove it
 
-### Want to report a plugin?
+## Want to report a plugin?
 Create an issue explaining the reasons
