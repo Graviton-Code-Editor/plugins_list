@@ -6,10 +6,12 @@ This is the official Market plugins list.
 
 ## Want to add a plugin?
 
-### Requisites:
+### 📝 Requisites:
 - Github account more than 2 month older
 - Respectful, no-spam plugins (Any attemp of publishing malware or spam to the market will be penalized.)
+- Not "random" or "stupid" things
 
+### ▶ Steps:
 Create a pull request in the list.json to add your plugin to the array, the item has to be like:
 
 ```json
