@@ -8,12 +8,12 @@ This is the official Market plugins list.
 
 ### 📝 Requisites:
 - Github account more than 2 month older
-- Respectful, no-spam plugins (Any attemp of publishing malware or spam to the market will be penalized.)
-- Not "random" or "stupid" things
-- Avoid direct DOM modyfing
+- Respectful, no-spam plugins (Any attempt of publishing malware or spam to the market will be penalized.)
+- No "random" or "stupid" things
+- Avoid directly modifying the DOM
 
 ### ▶ Steps:
-Create a pull request in the list.json to add your plugin to the array, the item has to be like:
+Create a pull request in the list.json to add your plugin to the array, the item has to look like:
 
 ```json
 "ownerName/repositoryName"
